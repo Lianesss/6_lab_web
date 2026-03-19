@@ -263,7 +263,6 @@
     display: inline-block;
     position: relative;
     margin: 15px;
-    vertical-align: top; /*вертикальное выравнивание к верху*/
 }
 
 .square_box{
